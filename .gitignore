@@ -1,1 +1,15 @@
 /dj_ds
+/src/db.sqlite3
+
+/src/reports_proj/__pycache__
+/src/customers/__pycache__
+/src/products/__pycache__
+/src/profiles/__pycache__
+/src/reports/__pycache__
+/src/sales/__pycache__
+
+/src/customers/migrations/__pycache__
+/src/products/migrations/__pycache__
+/src/profiles/migrations/__pycache__
+/src/reports/migrations/__pycache__
+/src/sales/migrations/__pycache__
